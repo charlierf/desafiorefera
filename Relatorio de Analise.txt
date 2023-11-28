@@ -1,0 +1,56 @@
+Relatório de Análise de Vendas
+Este relatório foi feito com base nos dados de vendas de uma empresa, fornecidos pela Refera. O objetivo é explorar a base de dados e fornecer insights sobre o desempenho, os problemas, as oportunidades e as previsões de vendas da empresa.
+
+Gráficos
+Para fazer este relatório, foram feitos os seguintes gráficos, organizados numa dashboard do Power BI:
+•	Total de Vendas por Produto: Gráfico de barras que mostra os produtos mais e menos vendidos, em unidades.
+•	Total de Lucro por Produto: Gráfico de barras que mostra os produtos mais e menos lucrativos, em valor.
+•	% de Lucro por Produto: Gráfico de linhas que mostra o desvio da média de % lucro dos produtos, com uma linha de média.
+•	Vendas x Lucro por Produto: Gráfico de linhas que mostra a relação entre vendas e lucro por produto, em unidades e valor.
+•	Total de Vendas por Categoria: Gráfico de pizza que mostra as categorias mais e menos vendidas, em unidades e percentual.
+•	Total de Lucro por Categoria: Gráfico de pizza que mostra as categorias mais e menos lucrativas, em valor e em percentual.
+•	Lucro Total: Indicador que mostra a proporção do lucro de qualquer item selecionado face o total de lucro, em valor.
+•	Total de Vendas: Indicador que mostra a proporção das vendas de qualquer item selecionado face o total de vendas, em unidades.
+•	Lucro Total por Mês: Gráfico de linhas que mostra os meses mais e menos lucrativos, em valor.
+•	Total de Vendas por Cidade: Mapa que mostra as cidades com mais vendas, em unidades, e como selecionar diferentes itens influencia nisso.
+•	Regiões: Mapa que facilita a seleção de regiões no mapa para comparar os dados.
+
+
+Análises
+Após a análise dos gráficos, constatou-se o seguinte:
+•	Produtos: 
+o	Dos 77 produtos, o mais lucrativo é Minnki Pälsii do segmento Womens wear, com 81,84 Mil de lucro (22,55%). É o 14º mais vendido, com 981 unidades (1,88%). 
+o	O produto menos lucrativo é o Mehmet-Napkin, do segmento Babywear, com 75,62 (0,02%) de Lucro e 296 vendas (0,57%), sendo o 8º menos vendido. 
+o	Fuji Boots é o produto com mais lucro percentual (30%), mas o menos vendido (100 unidades).
+•	Categorias:
+o	Dos 8 segmentos, o mais lucrativo é Womens wear, seguido por Sportwear. Ambos também são os segmentos com mais vendas, mas em ordem inversa. 
+o	Sem contar o produto mais lucrativo, Minnki Pälsii, o segmento Womens wear passa a ser o terceiro mais lucrativo, bem próximo do segundo, Mens Footwear, e Sportwear passa a ser o primeiro. 
+o	O segmento menos lucrativo é Bath Clothes, que corresponde a 9,28% das vendas, mas apenas 2,7% do lucro, seguido por Childrens wear, que é o pior nas vendas (4,35%), e segundo pior no lucro (4,26%).
+•	Regiões: 
+o	Por região, dos 52 mil produtos vendidos, 34 mil foram vendidos na Europa, 11 mil na América do Norte, e o restante na América do Sul. 
+o	Quanto ao lucro, do total de 362,85 Mil, 259,81 Mil vieram da Europa, 64,26 Mil da América do Norte e 38,79 mil da América do Sul. 
+o	Ainda por Região, Minnki Pälsii continua sendo o produto mais lucrativo na Europa e na América do Sul, na América do Norte, entretanto, aparece em 5º Lugar, sendo o mais lucrativo Okkava Skin Jackets. 
+o	Mehmet-Napkin aparece como o menos lucrativo nas Américas, e 3º menos lucrativo da Europa.
+•	Meses: 
+o	Quanto aos meses do ano, entre 07/04/2015 e 07/04/2018 os meses mais lucrativos foram Março e Julho. e os menos lucrativos Maio e Dezembro. 
+o	Ao separarmos por região, os meses mais e menos lucrativos são os mesmos na Europa, com um valor mais baixo também nos meses de Junho e Setembro. 
+o	Na América do Norte os picos são em Março, Julho e Setembro, e vales em Abril e Novembro. 
+o	Por fim, na América do Sul os meses mais lucrativos são Março, Junho e Novembro, e os menos Maio e Dezembro.
+
+Conclusão
+Este relatório mostrou as principais características das vendas da empresa, usando dados de 77 produtos, 8 categorias, 3 regiões e 36 meses. Os gráficos e as análises revelaram os produtos e as categorias mais e menos lucrativos, as tendências e as variações das vendas e do lucro ao longo do tempo e do espaço, e os insights e as recomendações para melhorar o desempenho da empresa.
+Os principais resultados foram:
+•	O produto mais lucrativo foi Minnki Pälsii, do segmento Womens wear, que representou 22,55% do lucro total, mas apenas 1,88% das vendas totais.
+•	O produto menos lucrativo foi Mehmet-Napkin, do segmento Babywear, que representou apenas 0,02% do lucro total, e 0,57% das vendas totais.
+•	O segmento mais lucrativo foi Womens wear, que representou 37,52% do lucro total, e 15,05% das vendas totais.
+•	O segmento menos lucrativo foi Bath Clothes, que representou apenas 2,7% do lucro total, e 9,28% das vendas totais.
+•	A região mais lucrativa foi a Europa, que representou 71,60% do lucro total, e 65,38% das vendas totais.
+•	A região menos lucrativa foi a América do Sul, que representou 10,69% do lucro total, e 13,46% das vendas totais.
+•	Os meses mais lucrativos foram Março e Julho.
+•	Os meses menos lucrativos foram Maio e Dezembro.
+As principais recomendações são:
+•	Focar nas regiões que dão mais lucro nas datas em que há melhor desempenho, principalmente se forem datas em que as outras regiões têm um lucro mais baixo. Por exemplo, focar mais na América do Sul e menos na América do Norte em Novembro.
+•	Investir nos produtos e nas categorias que têm uma alta margem de lucro, mas uma baixa participação nas vendas, como Minnki Pälsii e Womens wear. Isso pode aumentar o lucro sem aumentar muito os custos.
+•	Reduzir ou eliminar os produtos e as categorias que têm uma baixa margem de lucro, mas uma alta participação nas vendas, como Mehmet-Napkin e Bath Clothes. Isso pode diminuir os custos sem diminuir muito o lucro.
+•	Analisar os fatores que influenciam as variações das vendas e do lucro ao longo do tempo, como sazonalidade, promoções, concorrência, etc. Isso pode ajudar a planejar melhor as estratégias de marketing e de precificação.
+
